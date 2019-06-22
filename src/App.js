@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import YouTube from 'react-youtube';
-import logo from './logo.svg';
+import logo from './static/RoarNews.png';
 import './App.css';
 import videoList from './video-list'
 
@@ -41,6 +41,7 @@ function App() {
   console.log(videoId)
   return (
     <div className="App">
+      <img src={logo} />
       <YouTube
         videoId={videoId}
         opts={opts}
