@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roarnews_frontend/static/css/main.2cce8147.chunk.css",
+    "main.js": "/roarnews_frontend/static/js/main.9691bbcb.chunk.js",
+    "main.js.map": "/roarnews_frontend/static/js/main.9691bbcb.chunk.js.map",
+    "runtime~main.js": "/roarnews_frontend/static/js/runtime~main.36ca5e79.js",
+    "runtime~main.js.map": "/roarnews_frontend/static/js/runtime~main.36ca5e79.js.map",
+    "static/js/2.b41502e9.chunk.js": "/roarnews_frontend/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/roarnews_frontend/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/roarnews_frontend/index.html",
+    "precache-manifest.b30d6570c666d6d0f8379203af413958.js": "/roarnews_frontend/precache-manifest.b30d6570c666d6d0f8379203af413958.js",
+    "service-worker.js": "/roarnews_frontend/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/roarnews_frontend/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/roarnews_frontend/static/media/logo.5d5d9eef.svg"
+  }
+}
